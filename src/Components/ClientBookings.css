@@ -1,0 +1,24 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+table{
+    width: 80%;
+    border: 1px solid black;
+}
+tr{
+    border: 1px solid black;
+}
+th{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+}
+.clientBooking{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

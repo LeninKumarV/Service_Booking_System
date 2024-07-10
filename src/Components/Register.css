@@ -1,0 +1,78 @@
+.CompanyRegister{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-y: hidden;
+}
+.ClientRegister{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-y: hidden;
+}
+.login{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-y: hidden;
+}
+.postAd{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-y: hidden;
+}
+form{
+    width: 400px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+    row-gap: 20px;
+    box-shadow:0 0 10px 1px #333;
+    padding:5% 0% ;
+}
+form input{
+    width: 70%;
+}
+form button{
+    border:none;
+    outline: none;
+    background-color: #333;
+    color: white;
+    width: 70%;
+}
+
+/* form class */
+.form{
+    width: 400px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+    row-gap: 20px;
+    box-shadow:0 0 10px 1px #333;
+    padding:5% 0% ;
+}
+.form input{
+    width: 70%;
+}
+.form button{
+    border:none;
+    outline: none;
+    background-color: #333;
+    color: white;
+    width: 70%;
+}

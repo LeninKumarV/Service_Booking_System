@@ -1,0 +1,29 @@
+.container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    column-gap: 5%;
+}
+.container img{
+    width: 30%;
+}
+.left{
+    box-shadow: 0 0 10px 1px #333;
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    flex-direction: column;
+    padding: 1%;
+}
+.right{
+    box-shadow: 0 0 10px 1px #333;
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    flex-direction: column;
+    row-gap: 20px;
+    padding: 1%;
+}
